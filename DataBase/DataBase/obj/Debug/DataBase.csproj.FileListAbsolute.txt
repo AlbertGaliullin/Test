@@ -1,0 +1,7 @@
+C:\Users\Альберт\Desktop\Тестовое задание\DataBase\DataBase\bin\Debug\DataBase.dll.config
+C:\Users\Альберт\Desktop\Тестовое задание\DataBase\DataBase\bin\Debug\DataBase.dll
+C:\Users\Альберт\Desktop\Тестовое задание\DataBase\DataBase\bin\Debug\DataBase.pdb
+C:\Users\Альберт\Desktop\Тестовое задание\DataBase\DataBase\obj\Debug\DataBase.csprojAssemblyReference.cache
+C:\Users\Альберт\Desktop\Тестовое задание\DataBase\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\Альберт\Desktop\Тестовое задание\DataBase\DataBase\obj\Debug\DataBase.dll
+C:\Users\Альберт\Desktop\Тестовое задание\DataBase\DataBase\obj\Debug\DataBase.pdb
